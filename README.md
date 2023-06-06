@@ -1,6 +1,6 @@
 # Hi there
 
-I'm Topi a programmer from Germany enyoing [Golang](https://go.dev/) and creating various projects with it. You can checkout the technologies I like to use below with some of my projects aswell. I like to selfhost everything I can at home and you can see the result of this in my [docker compose](https://github.com/TopiSenpai/docker) repository where I save all my configs & co.
+I'm Topi a programmer from Germany enyoing [Golang](https://go.dev/) and creating various projects with it. You can checkout the technologies I like to use below with some of my projects aswell. I like to selfhost everything I can at home and you can see the result of this in my [docker compose](https://github.com/topi314/docker) repository where I save all my configs & co.
 Checkout my website under https://topi.wtf
 
 <img src="https://kittybot.de/img/KittyBlink.4e6166f0.gif" width="200px" height="200px" align="right">
@@ -33,15 +33,15 @@ Checkout my website under https://topi.wtf
 * [DisGo](https://github.com/disgoorg/disgo) - A modular Golang [Discord](httos://discord.com) API Wrapper
 * [DisGoLink](https://github.com/disgoorg/disgolink) -  A Golang [Lavalink](https://github.com/freyacodes/Lavalink) Client 
 * [Lavalink](https://github.com/freyacodes/Lavalink) - Standalone audio sending node based on [Lavaplayer](https://github.com/sedmelluq/lavaplayer) 
-* [LavaSrc](https://github.com/TopiSenpai/LavaSrc) -  A collection of additional [Lavaplayer](https://github.com/sedmelluq/lavaplayer)/[Lavalink](https://github.com/freyacodes/Lavalink) Sources
-* [LavaFx](https://github.com/TopiSenpai/LavaFx) - A collection of additional [Lavaplayer](https://github.com/sedmelluq/lavaplayer)/[Lavalink](https://github.com/freyacodes/Lavalink) Filters 
-* [gobin](https://github.com/TopiSenpai/gobin) -  A [hastebin](https://hastebin.com)/[pastebin](https://pastebin.com/) compatible paste server
-* [topi.wtf](https://github.com/TopiSenpai/topi.wtf) - A personal portfolio Website
+* [LavaSrc](https://github.com/topi314/LavaSrc) -  A collection of additional [Lavaplayer](https://github.com/sedmelluq/lavaplayer)/[Lavalink](https://github.com/freyacodes/Lavalink) Sources
+* [LavaFx](https://github.com/topi314/LavaFx) - A collection of additional [Lavaplayer](https://github.com/sedmelluq/lavaplayer)/[Lavalink](https://github.com/freyacodes/Lavalink) Filters 
+* [gobin](https://github.com/topi314/gobin) -  A [hastebin](https://hastebin.com)/[pastebin](https://pastebin.com/) compatible paste server
+* [topi.wtf](https://github.com/topi314/topi.wtf) - A personal portfolio Website
 * [KittyBotGo](https://github.com/KittyBot-Org/KittyBotGo) - A fresh Golang rewrite of [KittyBot](https://github.com/KittyBot-Org/KittyBot)
-* [Reddit-Discord-Bot](https://github.com/TopiSenpai/Reddit-Discord-Bot) - A Discord Bot to deliver Reddit posts into your server
+* [Reddit-Discord-Bot](https://github.com/topi314/Reddit-Discord-Bot) - A Discord Bot to deliver Reddit posts into your server
 
 ## How to contact me
 
 * [Discord](https://discord.gg/sD3ABd5)
 * [E-Mail](mailto:hi@topi.wtf) 
-* [Twitter](https://twitter.com/TopiSenpai)
+* [Twitter](https://twitter.com/topi3141)
