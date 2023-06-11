@@ -39,9 +39,3 @@ Checkout my website under https://topi.wtf
 * [topi.wtf](https://github.com/topi314/topi.wtf) - A personal portfolio Website
 * [KittyBotGo](https://github.com/KittyBot-Org/KittyBotGo) - A fresh Golang rewrite of [KittyBot](https://github.com/KittyBot-Org/KittyBot)
 * [Reddit-Discord-Bot](https://github.com/topi314/Reddit-Discord-Bot) - A Discord Bot to deliver Reddit posts into your server
-
-## How to contact me
-
-* [Discord](https://discord.gg/sD3ABd5)
-* [E-Mail](mailto:hi@topi.wtf) 
-* [Twitter](https://twitter.com/topi3141)
