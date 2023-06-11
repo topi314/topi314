@@ -3,7 +3,7 @@
 I'm Topi a programmer from Germany enyoing [Golang](https://go.dev/) and creating various projects with it. You can checkout the technologies I like to use below with some of my projects aswell. I like to selfhost everything I can at home and you can see the result of this in my [docker compose](https://github.com/topi314/docker) repository where I save all my configs & co.
 Checkout my website under https://topi.wtf
 
-<img src=".github/KittyBot.gif" width="200px" height="200px" align="right" alt="Blinking Cat">
+<img src="https://raw.githubusercontent.com/topi314/topi314/senpai/.github/KittyBot.gif" width="200px" height="200px" align="right" alt="Blinking Cat">
 
 ## Technologies I use
 
