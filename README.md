@@ -36,6 +36,8 @@ Checkout my website under https://topi.wtf
 * [LavaSrc](https://github.com/topi314/LavaSrc) -  A collection of additional [Lavaplayer](https://github.com/sedmelluq/lavaplayer)/[Lavalink](https://github.com/freyacodes/Lavalink) Sources
 * [LavaFx](https://github.com/topi314/LavaFx) - A collection of additional [Lavaplayer](https://github.com/sedmelluq/lavaplayer)/[Lavalink](https://github.com/freyacodes/Lavalink) Filters 
 * [gobin](https://github.com/topi314/gobin) -  A [hastebin](https://hastebin.com)/[pastebin](https://pastebin.com/) compatible paste server
+* [goapps](https://github.com/topi314/goapps) - A simple service dashboard using oidc to show services users have access to
+* [godrive](https://github.com/topi314/godrive) -  A simple file sharing service written in go using s3 buckets
 * [topi.wtf](https://github.com/topi314/topi.wtf) - A personal portfolio Website
 * [KittyBotGo](https://github.com/KittyBot-Org/KittyBotGo) - A fresh Golang rewrite of [KittyBot](https://github.com/KittyBot-Org/KittyBot)
 * [Reddit-Discord-Bot](https://github.com/topi314/Reddit-Discord-Bot) - A Discord Bot to deliver Reddit posts into your server
